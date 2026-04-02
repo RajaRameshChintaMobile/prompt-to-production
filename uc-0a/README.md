@@ -55,7 +55,5 @@ Then look for:
 
 ---
 
-## Commit Formula
-```
-UC-0A Fix [failure mode]: [why it failed] → [what you changed]
+
 ```
