@@ -12,7 +12,7 @@ ALLOWED_CATEGORIES = [
     "Pothole", "Flooding", "Streetlight", "Waste", "Noise",
     "Road Damage", "Heritage Damage", "Heat Hazard", "Drain Blockage", "Other",
 ]
-
+#Raja
 # Any of these words in the description must trigger Urgent priority
 SEVERITY_KEYWORDS = [
     "injury", "child", "school", "hospital", "ambulance",
